@@ -22,7 +22,7 @@ params:
     - python
     - stan
   progressively: no
-  sitename: Hugo Tanka Theme
+  sitename: Hannah's Blog
   uselatex: yes
 markup:
   goldmark:
